@@ -9,6 +9,8 @@ A basic Node.js and Express Server setup.
 
 ## Dependencies
 
+* node & npm
+* git
 
 ## Installation
 * `git clone`
