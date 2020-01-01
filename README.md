@@ -9,8 +9,8 @@ A basic Node.js and Express Server setup.
 
 ## Dependencies
 
-* node & npm
-* git
+* [Node.js & Npm](https://nodejs.org/en/)
+* [Git](https://help.github.com/en/github/getting-started-with-github/set-up-git)
 
 ## Installation
 * `git clone`
